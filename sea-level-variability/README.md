@@ -30,6 +30,8 @@ The goal: decompose sea level signals into long-term trends, seasonal cycles, an
 | 🇺🇸 San Diego, CA | **+4.08 mm/year** |
 | 🇯🇵 Mera, Japan | **+4.98 mm/year** |
 
+![San Diego Correlation](outputs/figures/correlation_map.png)
+
 **Spatial correlation analysis reveals:**
 
 - **San Diego** anomalies show the strongest basin-wide predictive power — highly correlated with the equatorial cold tongue and eastern Pacific, with a striking negative correlation near Papua New Guinea and Australia. This pattern is a clear signature of **ENSO teleconnections**.
