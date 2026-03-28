@@ -128,9 +128,3 @@ This analysis was conducted as part of an undergraduate oceanography course. The
 - **Physical climate risk modeling** (coastal flooding exposure, SLR projections)
 - **Climate data pipelines** for ESG and climate finance applications
 - **Validation frameworks** for satellite-derived climate datasets
-
----
-
-## License
-
-MIT — free to use and adapt with attribution.
