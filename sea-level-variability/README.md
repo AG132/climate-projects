@@ -30,7 +30,7 @@ The goal: decompose sea level signals into long-term trends, seasonal cycles, an
 | 🇺🇸 San Diego, CA | **+4.08 mm/year** |
 | 🇯🇵 Mera, Japan | **+4.98 mm/year** |
 
-![San Diego Correlation](sea-level-variability/outputs/figures/correlation_map.png)
+![San Diego Correlation](outputs/figures/correlation_map.png)
 
 **Spatial correlation analysis reveals:**
 
